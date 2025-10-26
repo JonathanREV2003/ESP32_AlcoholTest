@@ -1,0 +1,40 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: #121212;
+  color: #fff;
+  text-align: center;
+  padding: 40px;
+}
+
+h1 {
+  color: #00c3ff;
+}
+
+.container {
+  background: #1e1e1e;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 0 auto;
+  width: 300px;
+  box-shadow: 0 0 10px #00c3ff55;
+}
+
+button {
+  background: #00c3ff;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background: #009edb;
+}
+
+#alcohol {
+  font-size: 28px;
+  color: #00ff9d;
+}
